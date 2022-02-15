@@ -1,12 +1,8 @@
 # THOP: PyTorch-OpCounter
 
-## How to install 
-    
-`pip install thop` (now continously intergrated on [Github actions](https://github.com/features/actions))
+## How to install
 
-OR
-
-`pip install --upgrade git+https://github.com/fsx950223/pytorch-OpCounter.git`
+`pip install git+https://github.com/fsx950223/pytorch-OpCounter.git`
     
 ## How to use 
 * Basic usage 
